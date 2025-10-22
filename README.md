@@ -2,7 +2,6 @@
 
 <a href="https://www.credly.com/earner/earned/badge/171ccacd-9ba6-4513-afee-13b08d3390c8" target="_blank">
 <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python 1" width="120" />
-/a>
 
 <!--
 **S9NT7S/S9NT7S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
